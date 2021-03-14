@@ -24,7 +24,7 @@ const SwipeButtons = () => {
       <IconButton className="swipeButtons__right">
         <FavoriteIcon fontSize="large" />
       </IconButton>
-      <IconButton className="swipeButton__lightning">
+      <IconButton className="swipeButtons__lightning">
         <FlashOnIcon fontSize="large" />
       </IconButton>
     </div>
